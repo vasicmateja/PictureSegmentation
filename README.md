@@ -1,6 +1,6 @@
 # PictureSegmentation
 
-Picture Segmentation using Deep Learning Models
+
 This project demonstrates picture segmentation using deep learning techniques, including models like DenseNet121, MobileNetV2, and EfficientNetB0. The dataset used is from the COCO dataset, focusing on food categories such as donuts, pizza, and cake. The segmentation process is applied using mask annotations to predict object categories within images.
 
 Key Features
